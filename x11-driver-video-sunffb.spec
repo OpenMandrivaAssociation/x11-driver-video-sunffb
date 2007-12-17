@@ -13,7 +13,6 @@ Group: Development/X11
 Source0: xf86-video-sunffb-%{version}.tar.bz2
 
 License: MIT
-BuildRoot: %{_tmppath}/%{name}-root
 
 ########################################################################
 # git-format-patch master..origin/mandriva+gpl
