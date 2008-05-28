@@ -17,7 +17,7 @@ BuildRequires: GL-devel
 Conflicts: xorg-x11-server < 7.0
 
 %description
-The X.org driver for sun ffb Cards.
+x11-driver-video-sunffb is the X.org driver for sun ffb Cards.
 
 %prep
 %setup -q -n xf86-video-sunffb-%{version}
