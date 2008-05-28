@@ -3,7 +3,7 @@ Name: x11-driver-video-sunffb
 Version: 1.1.0
 Release: %mkrel 4
 Summary: X.org driver for sun ffb Cards
-Group: Development/X11
+Group: System/X11
 URL: http://xorg.freedesktop.org
 Source: http://xorg.freedesktop.org/releases/individual/driver/xf86-video-sunffb-%{version}.tar.bz2
 Patch0: sunffb-compile_sparc.patch
