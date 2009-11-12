@@ -1,7 +1,7 @@
 ExclusiveArch:	sparc sparc64
 Name: x11-driver-video-sunffb
-Version: 1.1.0
-Release: %mkrel 5
+Version: 1.2.1
+Release: %mkrel 1
 Summary: X.org driver for sun ffb Cards
 Group: System/X11
 URL: http://xorg.freedesktop.org
